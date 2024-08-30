@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prashant2028
 - 👀 I’m interested in Mobile app development, web development, and designing.
-- 🌱 I’m currently learning Web development and Mobile app development with Flutter.
+- 🌱 I’m currently learning Mobile app development with Flutter.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
